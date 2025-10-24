@@ -71,7 +71,15 @@ You can replace `electro` with any genre (e.g. `pop`, `rock`, `hiphop`).
 
 ## 📸 Screenshots
 
-![Home Screen](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-6/blob/main/Hasil%20Implementasi/Movie%20Detail.jpg)
+<p align="center">
+  <img src="https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-6/blob/main/Hasil%20Implementasi/Movie%20Detail.jpg" width="45%" />
+  <img src="assets/screenshots/detail.png" width="45%" />
+</p>
+<p align="center">
+  <img src="assets/screenshots/list.png" width="45%" />
+  <img src="assets/screenshots/player.png" width="45%" />
+</p>
+
 
 ---
 
