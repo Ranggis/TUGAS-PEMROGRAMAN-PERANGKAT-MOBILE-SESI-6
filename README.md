@@ -95,7 +95,7 @@ You can replace `electro` with any genre (e.g. `pop`, `rock`, `hiphop`).
 ## 👩‍💻 Author
 
 **Ranggis**
-Developed with ❤️ using React Native and TypeScript.
+Developed with ☕ using React Native and TypeScript.
 
 ---
 
