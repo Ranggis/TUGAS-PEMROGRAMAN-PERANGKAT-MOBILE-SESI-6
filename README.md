@@ -71,15 +71,9 @@ You can replace `electro` with any genre (e.g. `pop`, `rock`, `hiphop`).
 
 ## 📸 Screenshots
 
-<p align="center">
-   <img src="https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-6/blob/main/Hasil%20Implementasi/Movie%20List.jpg" width="45%" />
-  <img src="https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-6/blob/main/Hasil%20Implementasi/Movie%20Detail.jpg" width="45%" />
-</p>
-<p align="center">
-  <img src="https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-6/blob/main/Hasil%20Implementasi/Song%20List.jpg" width="45%" />
-  <img src="https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-6/blob/main/Hasil%20Implementasi/Song%20Detail.jpg" width="45%" />
-</p>
-
+| Movie List | Movie Detail | Song List | Song Detail |
+| ------------------ | -------- | -------- |
+| ![Movie List]([https://github.com/your-username/travel-app/assets/detail.png](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-6/blob/main/Hasil%20Implementasi/Movie%20List.jpg)) | ![Movie Detail](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-6/blob/main/Hasil%20Implementasi/Movie%20Detail.jpg) | ![Song List](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-6/blob/main/Hasil%20Implementasi/Song%20List.jpg) | ![Song Detai](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-6/blob/main/Hasil%20Implementasi/Song%20Detail.jpg) |
 
 ---
 
